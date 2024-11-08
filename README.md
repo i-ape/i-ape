@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ... getting me a job/purpose  
 - 📫 How to reach me ... [Telegram](https://t.me/)
 
-![](https://github-readme-stats.vercel.app/api?username=i-ape&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=i-ape&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-ape&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- ![](https://github-readme-stats.vercel.app/api?username=i-ape&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+- ![](https://github-readme-streak-stats.herokuapp.com/?user=i-ape&theme=gotham&hide_border=false)<br/>
+- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-ape&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!---
