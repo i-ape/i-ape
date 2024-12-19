@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-ape
 - 👀 I’m interested in ... creating privacy tools
-- 🌱 I’m currently learning ... python🐍 & rust🦀
+- 🌱 I’m currently learning ... python🐍 & rust🦀 & Go
 - 💞️ I’m looking to collaborate on ... getting me a job/purpose  
 - 📫 How to reach me ... [Telegram](https://t.me/)
 
