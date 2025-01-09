@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @i-ape
+- 👋 Hi, I’m @i-ape, i do not do follow for follow!
 - 👀 I’m interested in ... creating privacy tools
 - 🌱 I’m currently learning ... python🐍 & rust🦀 & Go
 - 💞️ I’m looking to collaborate on ... getting me a job/purpose  
