@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... creating privacy tools
 - 🌱 I’m currently learning ... python🐍 & rust🦀 & Go
 - 💞️ I’m looking to collaborate on ... getting me a job/purpose  
-- 📫 How to reach me ... [Telegram](https://t.me/)
+- 📫 How to reach me ... [not](https://t.me/)
 
 - ![](https://github-readme-stats.vercel.app/api?username=i-ape&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 - ![](https://github-readme-streak-stats.herokuapp.com/?user=i-ape&theme=gotham&hide_border=false)<br/>
