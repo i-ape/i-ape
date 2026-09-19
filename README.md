@@ -5,7 +5,7 @@
 - 📫 How to reach me ... [not](https://t.me/)
 
 [![i-ape's GitHub stats](https://github-stats-extended.vercel.app/api?username=i-ape)](https://github.com/stats-organization/github-stats-extended)
-- ![](https://github-readme-streak-stats.herokuapp.com/?user=i-ape&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-ape&theme=gotham&hide_border=false)<br/>
 
 
 <!---
